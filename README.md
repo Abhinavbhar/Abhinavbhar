@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there, I'm Abhinav! 👋
 
-<!--
-**Abhinavbhar/Abhinavbhar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science Engineering student at **Chitkara University** with a passion for building cool things on the web. I enjoy turning ideas into reality using code, especially in **Web Development** and the emerging world of **Web3**.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 **Education:** B.E. Computer Science Engineering, Chitkara University
+- 🌐 **Interests:** Web Development, Web3, building scalable applications
+- 💻 **Languages & Tools:**  
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+  ![Golang](https://img.shields.io/badge/-Golang-black?style=flat-square&logo=go)
+
+## 🌟 Highlight Project
+
+### [URL Shortener](https://github.com/Abhinavbhar/url-shortener)
+A simple and efficient URL shortener built using the latest web technologies. Check out the repo to see how I approached problem-solving and code organization!
+
+## 📫 How to reach me
+
+- **Email:** abhinavbhar2004@gmail.com
+
+---
+
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+
+Thanks for stopping by! 🚀
