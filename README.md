@@ -12,7 +12,7 @@ I'm a Computer Science Engineering student at **Chitkara University** with a pas
 
 ## 🌟 Highlight Project
 
-### [URL Shortener](https://github.com/Abhinavbhar/url-shortener)
+### [URL Shortener](https://github.com/Abhinavbhar/nodejs_proxy)
 A simple and efficient URL shortener built using the latest web technologies. Check out the repo to see how I approached problem-solving and code organization!
 
 ## 📫 How to reach me
