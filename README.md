@@ -1,21 +1,21 @@
-# Hi there, I'm Abhinav! 👋
+# Hi there, I'm Abhinav!
 
-I'm a Computer Science Engineering student at **Chitkara University** with a passion for building cool things on the web. I enjoy turning ideas into reality using code, especially in **Web Development** and the emerging world of **Web3**.
+I'm a Computer Science Engineering student at **Chitkara University** with a passion for building cool things on the web. I enjoy turning ideas into reality using code, especially in **backend and infra**.
 
-## 🚀 About Me
+## About Me
 
 - 🎓 **Education:** B.E. Computer Science Engineering, Chitkara University
-- 🌐 **Interests:** Web Development, Web3, building scalable applications
+- 🌐 **Interests:** Backend,networking
 - 💻 **Languages & Tools:**  
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
   ![Golang](https://img.shields.io/badge/-Golang-black?style=flat-square&logo=go)
 
-## 🌟 Highlight Project
+## Highlight Project
 
 ### [Proxy Server](https://github.com/Abhinavbhar/nodejs_proxy)
 A simple and efficient forward proxy built using the latest web technologies.
 
-## 📫 How to reach me
+## How to reach me
 
 - **Email:** abhinavbhar2004@gmail.com
 
@@ -23,4 +23,4 @@ A simple and efficient forward proxy built using the latest web technologies.
 
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
 
-Thanks for stopping by! 🚀
+Thanks for stopping by! 
